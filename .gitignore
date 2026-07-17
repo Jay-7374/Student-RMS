@@ -1,0 +1,29 @@
+# Compiled executables
+server.exe
+client.exe
+server
+client
+
+# Object files and build artifacts
+*.o
+*.obj
+*.exe
+
+# Application data files (local databases/records)
+data/students.dat
+*.dat
+
+# IDE and Editor files
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln
+*.vcxproj
+*.filters
+
+# OS files
+Thumbs.db
+db.ini
+.DS_Store
